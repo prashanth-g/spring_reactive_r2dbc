@@ -12,3 +12,4 @@ public class ReactiveR2DBCApplication {
         SpringApplication.run(ReactiveR2DBCApplication.class, args);
     }
 }
+
